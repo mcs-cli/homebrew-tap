@@ -1,9 +1,9 @@
 class Mcs < Formula
   desc "Configure Claude Code with MCP servers, plugins, skills, and hooks"
   homepage "https://github.com/mcs-cli/mcs"
-  url "https://github.com/mcs-cli/mcs/releases/download/2026.3.24/mcs-2026.3.24-macos-universal.tar.gz"
-  sha256 "9a39781ee594fb6c6169cfb3e415143c574e4ed16e40ec3bf0af488ceb366b0d"
-  version "2026.3.24"
+  url "https://github.com/mcs-cli/mcs/releases/download/2026.3.25/mcs-2026.3.25-macos-universal.tar.gz"
+  sha256 "6530c21bba30aea5bc5ededef3baec73df3f78d579c6b0ab0b40047304f41f58"
+  version "2026.3.25"
   license "MIT"
 
   def install
